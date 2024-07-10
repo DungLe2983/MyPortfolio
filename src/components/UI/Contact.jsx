@@ -26,7 +26,7 @@ const Contact = () => {
   };
 
   return (
-    <section id='contact' className='pb-4'>
+    <section id='contact' className='pb-10 mt-10'>
       <div className="container">
         <h2 className=' text-headingColor text-[2rem] font-[700]'>Get in touch</h2>
         <div className="md:flex items-start justify-between mt-4 ">
