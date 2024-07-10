@@ -55,7 +55,7 @@ const Portfolio = () => {
                             }}
                             className=' text-smallTextColor border border-solid border-smallTextColor px-4 py-2 rounded-lg'
                         >
-                            Web Design
+                            Web 
                         </button>
                         <button
                             onClick={() => {

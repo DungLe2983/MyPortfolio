@@ -63,7 +63,7 @@ const Hero = () => {
                 className=' text-smallTextColor text-[16px] font-[600]'>
                   <i class="ri-linkedin-box-fill"></i>
                 </a>
-                
+
               </span>
             </div>
           </div>
