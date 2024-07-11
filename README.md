@@ -27,11 +27,10 @@ You can simply click this [link](https://dungle2983.github.io/MyPortfolio/) to g
 
 ## User Interface
 
-![Home](./demo_ui/Home.png)
-![Upload](./demo_ui/Upload.png)
-![UploadedSong](./demo_ui/UploadedSong.png)
-![SongPostComment](./demo_ui/Song%20post%20and%20comment.png)
-![Room](./demo_ui/Room.jpg)
+![Home](./demo_ui/port1.png)
+![Demo2](./demo_ui/port2.png)
+![Demo3](./demo_ui/port3.png)
+
 
 ## Authors
 
